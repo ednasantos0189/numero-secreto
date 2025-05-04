@@ -4,7 +4,7 @@ Este é um jogo simples de adivinhação onde o jogador tenta descobrir um núme
 
 ## 🚀 Como Jogar
 
-1. O jogo exibe uma mensagem inicial informando que o jogador deve escolher um número entre 1 e 100.
+1. O jogo exibe uma mensagem inicial informando que o jogador deve escolher um número entre 1 e 10.
 2. O jogador insere um número no campo de entrada.
 3. O jogo verifica se o número escolhido é o correto:
    - Se acertar, o jogo exibe uma mensagem de sucesso junto com o número de tentativas usadas.
